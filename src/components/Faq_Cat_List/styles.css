@@ -1,0 +1,52 @@
+ 
+.add-btn{
+    line-height: 50px;
+    cursor: pointer;
+}
+ 
+.title_input{
+    width: 250px !important;
+    margin: 0 auto;
+}
+.status_input{
+    width: 100px!important;
+    margin: 0 auto;
+
+}
+.tablespan{
+    min-width: 250px;
+    display: block;
+}
+.badge{
+    font-size: 14px;
+    min-width: 50px;
+}
+.pager{
+    width: max-content;
+     margin:50px auto;
+}
+ 
+  .pager a {
+    border-color: #ddd;
+    color: #0e0e0e;
+    background: #fff;
+  }
+  .pager a:hover {
+    color: #E34E48;
+    background-color: #eee;
+  }
+  .pageactive a{
+    border-color: #E34E48;
+    background: #E34E48!important;
+    color: #fff;
+  }
+  .pageactive a:hover{
+ 
+    color: #fff!important;
+  }
+  .form-group , .table{
+    direction: rtl;
+  }
+  .table{
+    text-align: center;
+  }

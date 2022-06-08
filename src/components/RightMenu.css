@@ -5,3 +5,12 @@
 .item:hover{
     background-color: #e9e9e9;
 }
+.rightmenue_link a{
+    text-decoration: none!important;
+    color: #000;
+
+}
+.rightmenue_link h6{
+    font-size: 14px;
+
+}
